@@ -1,0 +1,2 @@
+trial_number,value,similarity,topK,shrink,tversky_alpha,tversky_beta
+3,0.0013663628619998312,tversky,857,852,1.9939682429698602,4.444321631320718

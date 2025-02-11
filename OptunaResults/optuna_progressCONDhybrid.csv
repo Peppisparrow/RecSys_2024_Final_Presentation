@@ -1,0 +1,24 @@
+trial_number,value,params
+0,0.0567050433314043,{'interaction_threshold': 90}
+1,0.0567050433314043,{'interaction_threshold': 85}
+2,0.0567050433314043,{'interaction_threshold': 80}
+3,0.0567050433314043,{'interaction_threshold': 50}
+4,0.0567050433314043,{'interaction_threshold': 50}
+5,0.0567050433314043,{'interaction_threshold': 95}
+6,0.0567050433314043,{'interaction_threshold': 60}
+0,0.0567050433314043,{'interaction_threshold': 610}
+1,0.0567050433314043,{'interaction_threshold': 670}
+0,0.0433451497730372,{'interaction_threshold': 185}
+1,0.0444757408359011,{'interaction_threshold': 505}
+2,0.0443767441404004,{'interaction_threshold': 345}
+3,0.0445207517022081,{'interaction_threshold': 730}
+4,0.0445109158209132,{'interaction_threshold': 660}
+5,0.044524873404846,{'interaction_threshold': 970}
+6,0.0426026555987339,{'interaction_threshold': 145}
+7,0.0444600892946341,{'interaction_threshold': 410}
+8,0.0436256720070357,{'interaction_threshold': 205}
+9,0.0445106347957333,{'interaction_threshold': 640}
+0,0.024973912610982252,{'interaction_threshold': 25}
+1,0.031215711582519217,{'interaction_threshold': 40}
+2,0.01789053801601566,{'interaction_threshold': 15}
+3,0.029458432138217465,{'interaction_threshold': 35}

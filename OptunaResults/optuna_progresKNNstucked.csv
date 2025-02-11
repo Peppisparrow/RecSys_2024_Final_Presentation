@@ -1,0 +1,9 @@
+trial_number,value,params
+0,0.0012525611972063915,"{'similarity': 'asymmetric', 'topK': 899, 'shrink': 385, 'asymmetric_alpha': 0.7998114731197068}"
+1,0.0007432048188948336,"{'similarity': 'asymmetric', 'topK': 188, 'shrink': 59, 'asymmetric_alpha': 0.6206393446134271}"
+2,0.0010808755602904926,"{'similarity': 'dice', 'topK': 420, 'shrink': 320}"
+3,0.0013663628619998312,"{'similarity': 'tversky', 'topK': 857, 'shrink': 852, 'tversky_alpha': 1.9939682429698602, 'tversky_beta': 4.444321631320718}"
+4,0.0012502135602197142,"{'similarity': 'euclidean', 'topK': 636, 'shrink': 317, 'normalize_avg_row': False, 'similarity_from_distance_mode': 'log', 'normalize': False}"
+5,0.001074088921594114,"{'similarity': 'jaccard', 'topK': 331, 'shrink': 412}"
+6,0.0008199171752450778,"{'similarity': 'euclidean', 'topK': 468, 'shrink': 199, 'normalize_avg_row': False, 'similarity_from_distance_mode': 'log', 'normalize': True}"
+7,0.0012533376411480541,"{'similarity': 'tversky', 'topK': 198, 'shrink': 851, 'tversky_alpha': 1.2790611509723648, 'tversky_beta': 7.349497197010938}"
