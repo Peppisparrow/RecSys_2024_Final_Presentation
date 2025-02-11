@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img width="100%" src="https://dipartimentodesign.polimi.it/it/all-news/il-politecnico-di-milano-ancora-tra-le-prime-20-universita-al-mondo" alt="header" />
 </p>
 # RecSys Course @ Politecnico di Milano
