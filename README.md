@@ -1,6 +1,4 @@
-<p>
-  <img width="100%" src="https://dipartimentodesign.polimi.it/it/all-news/il-politecnico-di-milano-ancora-tra-le-prime-20-universita-al-mondo" alt="header" />
-</p>
+![](images\Politecnico-Milano.jpg)
 # RecSys Course @ Politecnico di Milano
 This is the official repository for the Recommender Systems course at Polimi.
 
